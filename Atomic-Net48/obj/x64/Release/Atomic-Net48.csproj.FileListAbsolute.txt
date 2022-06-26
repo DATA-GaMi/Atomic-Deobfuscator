@@ -1,0 +1,11 @@
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\obj\x64\Release\Atomic-Net48.csproj.AssemblyReference.cache
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\obj\x64\Release\Atomic-Net48.csproj.SuggestedBindingRedirects.cache
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\obj\x64\Release\Atomic-Net48.csproj.CoreCompileInputs.cache
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\bin\x64\Release\Atomic-Net48.exe.config
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\bin\x64\Release\Atomic-Net48.exe
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\bin\x64\Release\Atomic-Net48.pdb
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\bin\x64\Release\dnlib.dll
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\bin\x64\Release\dnlib.xml
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\obj\x64\Release\Atomic-Net48.csproj.CopyComplete
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\obj\x64\Release\Atomic-Net48.exe
+E:\C#\Atomic-Deobfuscator\Atomic-Net48\obj\x64\Release\Atomic-Net48.pdb
