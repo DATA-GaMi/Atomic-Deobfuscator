@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lPD7BNk7FlsHGYW19O4vqeA3MuUpr1Nh7/aRJTOMdxdge19rSovFUN0leSnDSkGpbM0+4YVItgMQRom79Ee99Q==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Atomic-Deobfuscator\\AtomicDeobfuscator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\happy\\.nuget\\packages\\dnlib\\3.5.0-rc\\dnlib.3.5.0-rc.nupkg.sha512"
+  ],
+  "logs": []
+}
